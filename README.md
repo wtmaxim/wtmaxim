@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Maxime 👋
 
-<!--
-**wtmaxim/wtmaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer, mainly working on SaaS products with Next.js, React, and .NET.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SaaS applications
+- AI-powered automation
+- .NET / C# APIs
+- Modern user interfaces with React and Next.js
+
+## 🛠️ Tech Stack
+
+- C# / .NET
+- Next.js / React
+- TypeScript
+- PostgreSQL / SQL Server
+- Tailwind CSS
